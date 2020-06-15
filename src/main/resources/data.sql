@@ -1,0 +1,2 @@
+Insert into bus(busid,busname,bustype,fare,routeid,stime,etime,date,seat) values(222,'Volvo',1,300,100,'05:31 PM','09:31 PM',TO_DATE('2020/06/17','YYYY/MM/DD'),49); 
+Insert into bus(busid,busname,bustype,fare,routeid,stime,etime,date,seat) values(223,'Deluxe',0,300,101,'06:31 PM','08:30 PM',TO_DATE('2020/06/10','YYYY/MM/DD'),31); 
